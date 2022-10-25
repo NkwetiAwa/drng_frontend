@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# DrNg Appointment Ledger
+![alt text](https://github.com/NkwetiAwa/drng_frontend/blob/main/img/home.png?raw=true)
 
 ## Available Scripts
 
